@@ -5,13 +5,14 @@
 {
     font-family: 'Nunito', sans-serif;
     font-family: 'Bebas Neue', sans-serif;
+
 }
 .option{
     font-size: x-large
 }
 .maino{
     background-color: #457884;
-    height: 100vh;
+    height: 110vh;
 }
 .imgbackground{
     height: 75vh;
@@ -34,4 +35,12 @@
     font-size: x-large;
     padding: 1.5vh;
     color: #dadfe4;;
+}
+.turnblackintoblue{
+    color: #0d2d35;
+}
+
+
+.scrollnavbar{
+background-color: #0d2d35;
 }
