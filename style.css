@@ -1,0 +1,37 @@
+.logo{
+    height: 7.5vh;
+}
+*
+{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
+}
+.option{
+    font-size: x-large
+}
+.maino{
+    background-color: #457884;
+    height: 100vh;
+}
+.imgbackground{
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.headerbackground{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h4stile{
+    color: #dadfe4;
+}
+.bottonecalltoaction{
+    border: none;
+    background-color: #154854;
+    border-radius: 50px;
+    font-size: x-large;
+    padding: 1.5vh;
+    color: #dadfe4;;
+}
