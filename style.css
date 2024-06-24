@@ -12,7 +12,8 @@
 }
 .maino{
     background-color: #457884;
-    height: 110vh;
+    height: 100vh;
+    padding-top: 12.5vh;
 }
 .imgbackground{
     height: 75vh;
@@ -34,13 +35,41 @@
     border-radius: 50px;
     font-size: x-large;
     padding: 1.5vh;
-    color: #dadfe4;;
+    color: #dadfe4;
 }
 .turnblackintoblue{
     color: #0d2d35;
 }
-
-
-.scrollnavbar{
-background-color: #0d2d35;
+.showcalltoaction{
+    height: 100vh;
+    background-color: #98d5a4;
 }
+.navbar{
+    background-color: #dadfe4;
+}
+.despair{
+    background-color: #457883;
+    height: 62.5vh;
+    border-radius: 50px;
+    font-size: large;
+}
+.h2style{
+    font-size: xx-large;
+    color:  #0d2d35;;
+}
+.immdespair{
+    height: 25vh;   
+}
+.headerstyle{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: #0d2d35;
+}
+.articlestyle{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: #dadfe4;
+}
+
